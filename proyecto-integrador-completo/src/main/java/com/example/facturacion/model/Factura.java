@@ -1,0 +1,1 @@
+Contenido del archivo src/main/java/com/example/facturacion/model/Factura.java
